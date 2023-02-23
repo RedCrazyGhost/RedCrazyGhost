@@ -6,6 +6,8 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/snowdreams1006/snowdreams1006.github.io.svg?style=social)
 
 
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=RedCrazyGhost)]()
+
 <!--
 **RedCrazyGhost/RedCrazyGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
