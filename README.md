@@ -1,8 +1,8 @@
 # Hi,I'm RedCrazyGhost!
 
-<div align="center">
-    <a href="https://blog.redcrazyghost.vip/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-  </div>
+
+<a href="https://blog.redcrazyghost.vip/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=137 align="center" src="https://github-readme-stats.vercel.app/api?username=redcrazyghost&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
