@@ -1,4 +1,8 @@
-# Hi,I'm RedCrazyGhost!
+# Hi, I'm RedCrazyGhost!
+
+I don't know what to write about 🤔
+
+Then get some sleep 💤
 
 
 <a href="https://blog.redcrazyghost.vip/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
